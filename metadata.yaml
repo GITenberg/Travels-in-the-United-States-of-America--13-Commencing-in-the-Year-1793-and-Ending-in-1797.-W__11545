@@ -1,0 +1,23 @@
+_repo: Travels-in-the-United-States-of-America--13-Commencing-in-the-Year-1793-and-Ending-in-1797.-W__11545
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Priest, William
+    gutenberg_agent_id: '4019'
+    url: http://www.gutenberg.org/2009/agents/4019
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11545'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- Description and travel'
+- !lcc 'E151'
+- GITenberg
+title: "Travels in the United States of America\r\nCommencing in the Year 1793, and\
+  \ Ending in 1797. With the Author's Journals of his Two Voyages Across the Atlantic."
+url: http://www.gutenberg.org/ebooks/11545
